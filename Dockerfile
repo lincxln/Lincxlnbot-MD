@@ -14,4 +14,4 @@ RUN npm install
 
 COPY . .
 
-CMD ["npm", "zeeone.js"]
+CMD ["npm", "start"]
